@@ -9,7 +9,7 @@ Practice using Local & Remote Repository on Github.
 
 * Fork and clone this repo.
 * Once the repo has been cloned to your laptop..
-  * Choose ONE of the following: `Playground file` OR `Swift file` OR `Sample of Xcode Project`.
+  * Choose ONE of the following: `Playground contents file` OR `Swift file` OR `Sample of Xcode Project`.
   * Copy & Paste YOUR file(s) to working directory of cloned repostiory on your laptop.
   * Add the new file(s) to staging area.
   * Commit your work.
